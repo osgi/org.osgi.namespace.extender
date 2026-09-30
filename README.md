@@ -1,5 +1,9 @@
 # org.osgi.namespace.extender
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/osgi/org.osgi.namespace.extender/badge)](https://securityscorecards.dev/viewer/?uri=github.com/osgi/org.osgi.namespace.extender)
+[![build](https://github.com/osgi/org.osgi.namespace.extender/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/osgi/org.osgi.namespace.extender/actions/workflows/build.yml)
+[![Maven Central](https://img.shields.io/maven-central/v/org.osgi/org.osgi.namespace.extender)](https://central.sonatype.com/artifact/org.osgi/org.osgi.namespace.extender)
+
 OSGi Specification repo for org.osgi.namespace.extender
 
 Part of the [OSGi Specification Project](https://projects.eclipse.org/projects/technology.osgi).
