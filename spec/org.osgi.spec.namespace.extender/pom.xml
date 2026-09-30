@@ -12,7 +12,7 @@
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 	<artifactId>org.osgi.spec.namespace.extender</artifactId>
-	<name>OSGi Specification repo for org.osgi.namespace.extender</name>
+	<name>OSGi Extender Namespace (Common Namespaces Specification)</name>
 
 	<dependencies>
 		<dependency>
